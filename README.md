@@ -15,7 +15,7 @@ In trading communities and financial markets, performance claims are often share
 
 - Screenshots
 - Excel sheets
-- Manually created reports
+- Reports created manually
 
 These methods are easy to manipulate, leading to misleading claims of profitability.
 
