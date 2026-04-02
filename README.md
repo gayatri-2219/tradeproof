@@ -360,7 +360,7 @@ Rank brokers based on execution quality.
 
 On‑Chain Trading Analytics
 
-Metrics such as:
+Metrics such as-
 
 - Win rate
 - Risk metrics
