@@ -265,7 +265,7 @@ Compares hashes to validate authenticity.
 
 Clone the repository
 
-git clone https://github.com/yourusername/tradeproof.git
+git clone https://github.com/gayatri-2219/tradeproof.git
 
 Navigate to project folder
 
